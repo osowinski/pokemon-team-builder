@@ -1,4 +1,4 @@
-osowinski.github.io/pokemon-team-builder
+# pokemon-team-builder
 
 A browser-based Pokémon team building tool that lets you search, compare and analyse a full team of six. Built as a personal project for use with friends and my partner — somewhere we could plan teams, share them with a link and get feedback on coverage and weaknesses without needing a dedicated app.
 
